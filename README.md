@@ -79,7 +79,7 @@ If our work is helpful in your research, please cite our survey as:
 |       OCCD         | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | *N/A* |
 |     OracleRC       | [RZCR: Zero-shot Character Recognition via Radical-based Reasoning](https://dl.acm.org/doi/10.24963/ijcai.2023/73) | *N/A* |
 |   Oracle-MNIST     | [Oracle-MNIST: a Dataset of Oracle Characters for Benchmarking Machine Learning Algorithms](https://www.nature.com/articles/s41597-024-02933-w) | [Github](https://github.com/wm-bupt/oracle-mnist) |
-| OBI component 20   | [Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/10.1145/3652583.3658116) | *N/A* |
+| OBI component 20   | [Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/10.1145/3652583.3658116) | [Github](https://github.com/hutt94/Component-Level-OBI-Retrieval) |
 
 ## Decipherment
 
