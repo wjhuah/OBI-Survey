@@ -85,10 +85,10 @@ If our work is helpful in your research, please cite our survey as:
 
 |     Dataset      |                             Paper                              |                        Project Page                         |
 | :--------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
-|     OBI-ECC      | Study on the evolution of Chinese characters based on few-shot learning: From oracle bone inscriptions to regular script | *N/A* |
+|     OBI-ECC      | [Study on the Evolution of Chinese Characters Based on Few-shot Learning: From Oracle Bone Inscriptions to Regular Script](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272974) | *N/A* |
 |      EVOBC       | [An Open Dataset for the Evolution of Oracle Bone Characters: EVOBC](https://arxiv.org/abs/2401.12467) | [Github](https://github.com/RomanticGodVAN/character-Evolution-Dataset) |
 |     HUST-OBC     | [An Open Dataset for Oracle Bone Character Recognition and Decipherment](https://www.nature.com/articles/s41597-024-03807-x) | [Github](https://github.com/Pengjie-W/HUST-OBC) |
-|      GEVOBC      | A Graph-based Evolutionary Dataset for Oracle Bone Characters from Inscriptions to Modern Chinese Scripts | [Github](https://github.com/BrisksHan/GBEDOBC) |
+|      GEVOBC      | [A Graph-based Evolutionary Dataset for Oracle Bone Characters from Inscriptions to Modern Chinese Scripts](https://www.nature.com/articles/s40494-025-01951-0) | [Github](https://github.com/BrisksHan/GBEDOBC) |
 |   PictOBI-20k    | [PictOBI-20k: Unveiling Large Multimodal Models in Visual Decipherment for Pictographic Oracle Bone Characters](https://arxiv.org/abs/2509.05773) | [Github](https://github.com/OBI-Future/PictOBI-20k) |
 
 ## Others
