@@ -6,7 +6,7 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ![Overview](image/overview.png)
 
-**Paper:** *[Researchgate](https://www.researchgate.net/publication/398765990_Oracle_Bone_Inscriptions_Information_Processing_A_Comprehensive_Survey?channel=doi&linkId=694220050c98040d481e68ab&showFu*  
+**Paper:** *[Researchgate](https://www.researchgate.net/publication/398765990_Oracle_Bone_Inscriptions_Information_Processing_A_Comprehensive_Survey?channel=doi&linkId=694220050c98040d481e68ab&showFu)*  
 **Project Page:** *This repository*
 
 ---
