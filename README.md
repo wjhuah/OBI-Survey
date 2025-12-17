@@ -74,7 +74,8 @@ If our work is helpful in your research, please cite our survey as:
 |    Oracle-250      | [Recognition of Oracle Radical based on the Capsule network](https://tis.hrbeu.edu.cn/en/oa/darticle.aspx?type=view&id=201904069) | *N/A* |
 |   Radical-148      | [Recognition of Oracle Radical based on the Capsule network](https://tis.hrbeu.edu.cn/en/oa/darticle.aspx?type=view&id=201904069) | *N/A* |
 |      OBI125        | [Dynamic Dataset Augmentation for Deep Learning-based Oracle Bone Inscriptions Recognition](https://dl.acm.org/doi/abs/10.1145/3532868) | [Website](http://www.ihpc.se.ritsumei.ac.jp/obidataset.html) |
-|    Oracle-241      | [Unsupervised Structure-Texture Separation Network for Oracle Character Recognition](https://ieeexplore.ieee.org/document/9757826) | [Github](https://github.com/wm-bupt/STSN) |
+|      OBI-100        | [Improvement of Oracle Bone Inscription Recognition Accuracy: A Deep Learning Perspective](https://www.mdpi.com/2220-9964/11/1/45) | [Website](http://www.ihpc.se.ritsumei.ac.jp/obidataset.html) |
+|    Oracle-241      | [Unsupervised Structure-Texture Separation Network for Oracle Character Recognition](https://ieeexplore.ieee.org/document/9757826) | *N/A* |
 |       ORCD         | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | *N/A* |
 |       OCCD         | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | *N/A* |
 |     OracleRC       | [RZCR: Zero-shot Character Recognition via Radical-based Reasoning](https://dl.acm.org/doi/10.24963/ijcai.2023/73) | *N/A* |
@@ -88,7 +89,10 @@ If our work is helpful in your research, please cite our survey as:
 |     OBI-ECC      | [Study on the Evolution of Chinese Characters Based on Few-shot Learning: From Oracle Bone Inscriptions to Regular Script](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272974) | *N/A* |
 |      EVOBC       | [An Open Dataset for the Evolution of Oracle Bone Characters: EVOBC](https://arxiv.org/abs/2401.12467) | [Github](https://github.com/RomanticGodVAN/character-Evolution-Dataset) |
 |     HUST-OBC     | [An Open Dataset for Oracle Bone Character Recognition and Decipherment](https://www.nature.com/articles/s41597-024-03807-x) | [Github](https://github.com/Pengjie-W/HUST-OBC) |
+|     ACCP     | [Puzzle Pieces Picker: Deciphering Ancient Chinese Characters with Radical Reconstruction](https://arxiv.org/abs/2406.03019) | [Github](https://github.com/Pengjie-W/Puzzle-Pieces-Picker) |
+|     OracleSem      | [OracleSage: Towards Unified Visual-Linguistic Understanding of Oracle Bone Scripts through Cross-Modal Knowledge Fusion](https://arxiv.org/abs/2411.17837) | *N/A* |
 |      GEVOBC      | [A Graph-based Evolutionary Dataset for Oracle Bone Characters from Inscriptions to Modern Chinese Scripts](https://www.nature.com/articles/s40494-025-01951-0) | [Github](https://github.com/BrisksHan/GBEDOBC) |
+|      PD-OBS       | [Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs](https://arxiv.org/abs/2508.10113) | [Github](https://github.com/PKXX1943/PD-OBS) |
 |   PictOBI-20k    | [PictOBI-20k: Unveiling Large Multimodal Models in Visual Decipherment for Pictographic Oracle Bone Characters](https://arxiv.org/abs/2509.05773) | [Github](https://github.com/OBI-Future/PictOBI-20k) |
 
 ## Others
@@ -96,4 +100,5 @@ If our work is helpful in your research, please cite our survey as:
 | :--------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
 |       RCRN       | [RCRN: Real-world Character Image Restoration Network via Skeleton Extraction](https://dl.acm.org/doi/10.1145/3503161.3548344) | [Github](https://github.com/daqians/Noisy-character-image-benchmark) |
 |      OBIMD       | [Oracle Bone Inscriptions Multi-modal Dataset](https://arxiv.org/abs/2407.03900) | [Hugging Face](https://huggingface.co/datasets/KLOBIP/OBIMD) |
+|     RMOBS      | [OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography](https://arxiv.org/abs/2506.21101) | *N/A* |
 |    Oracle-P15k   | [Mitigating Long-tail Distribution in Oracle Bone Inscriptions: Dataset, Model, and Benchmark](https://dl.acm.org/doi/10.1145/3746027.3755067) | [Github](https://github.com/OBI-Future/Oracle-P15K) |
