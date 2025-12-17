@@ -28,8 +28,9 @@ If our work is helpful in your research, please cite our survey as:
 ```bibtex
 @article{obi_information_processing_survey,
   title  = {Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
-  author = {To be updated},
-  year   = {2025}
+  author = {Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
+  year   = {2025},
+  doi= {10.13140/RG.2.2.11272.48641}
 }
 ```
 
