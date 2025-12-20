@@ -6,7 +6,7 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ![Overview](image/overview.png)
 
-**Paper:** *[Researchgate](https://www.researchgate.net/publication/398765990_Oracle_Bone_Inscriptions_Information_Processing_A_Comprehensive_Survey?channel=doi&linkId=694220050c98040d481e68ab&showFu)*  
+**Paper:** *[Techrxiv](https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey)*  
 **Project Page:** *This repository*
 
 ---
@@ -26,12 +26,14 @@ If you find this repository useful, please consider giving us a ⭐. Thank you f
 If our work is helpful in your research, please cite our survey as:
 
 ```bibtex
-@article{obi_information_processing_survey,
-  title  = {Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
-  author = {Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
-  year   = {2025},
-  doi= {10.13140/RG.2.2.11272.48641}
-}
+@article{Chen_2025,
+title={Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
+url={http://dx.doi.org/10.22541/au.176616165.50988592/v1},
+DOI={10.22541/au.176616165.50988592/v1},
+publisher={Wiley},
+author={Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
+year={2025},
+month=dec}
 ```
 
 ## Table of Contents
