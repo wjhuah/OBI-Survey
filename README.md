@@ -32,8 +32,7 @@ url={http://dx.doi.org/10.22541/au.176616165.50988592/v1},
 DOI={10.22541/au.176616165.50988592/v1},
 publisher={Wiley},
 author={Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
-year={2025},
-month=dec}
+year={2025}
 ```
 
 ## Table of Contents
