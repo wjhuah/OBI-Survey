@@ -43,6 +43,12 @@ year={2025}
 4. [Decipherment](#decipherment)
 5. [Others](#others)
 6. [Paper Index (Task-oriented)](#paper-index-task-oriented)
+   - [OBI Preprocessing](#obi-preprocessing-data-augmentation--restoration)
+   - [OBI Recognition](#obi-recognition)
+   - [OBI Rejoining](#obi-rejoining)
+   - [OBI Classification and Retrieval](#obi-classification-and-retrieval)
+   - [OBI Deciphering](#obi-deciphering)
+
 
 ---
 
